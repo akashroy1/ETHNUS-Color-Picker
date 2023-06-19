@@ -38,7 +38,7 @@ const App = () => {
 
   return (
     <div className='App'>
-      <button onClick={handleButtonClick} className='button'>Pick a color</button>
+      <button onClick={handleButtonClick} className='button' style={{ backgroundColor: selectedColor }}>Pick a color</button>
       {showColors && (
         <div>
           {colors.map((color, index) => (
