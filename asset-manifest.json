@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ETHNUS-Color-Picker/static/css/main.d0c45b30.css",
-    "main.js": "/ETHNUS-Color-Picker/static/js/main.36f44142.js",
+    "main.js": "/ETHNUS-Color-Picker/static/js/main.f708ce1b.js",
     "static/js/787.917c6ecc.chunk.js": "/ETHNUS-Color-Picker/static/js/787.917c6ecc.chunk.js",
     "index.html": "/ETHNUS-Color-Picker/index.html",
     "main.d0c45b30.css.map": "/ETHNUS-Color-Picker/static/css/main.d0c45b30.css.map",
-    "main.36f44142.js.map": "/ETHNUS-Color-Picker/static/js/main.36f44142.js.map",
+    "main.f708ce1b.js.map": "/ETHNUS-Color-Picker/static/js/main.f708ce1b.js.map",
     "787.917c6ecc.chunk.js.map": "/ETHNUS-Color-Picker/static/js/787.917c6ecc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0c45b30.css",
-    "static/js/main.36f44142.js"
+    "static/js/main.f708ce1b.js"
   ]
 }
